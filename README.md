@@ -1,4 +1,7 @@
 # Greennit Project for CS3141
+
+## THIS PROJECT IS NO LONGER BEING MAINTAINED
+
 ### Description
 This is a somewhat failed attempted clone of the site Reddit, which was supposed to include green but doesn't.
 
